@@ -1,0 +1,14 @@
+logs
+*.log
+npm-debug.log*
+node_modules/
+.npm
+.eslintcache
+*.tgz
+.DS_Store
+.vscode
+.cache/
+.netlify/
+dist
+.env
+.parcel-cache/

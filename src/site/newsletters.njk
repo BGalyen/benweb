@@ -1,0 +1,27 @@
+---
+pagination:
+  data: collections.posts
+  size: 10
+  alias: posts
+  reverse: true
+---
+
+{% extends 'layouts/default.njk' %}
+{% from "partials/card.njk" import card %}
+
+{% set title = "Home" %}
+
+{% block content %}
+	{# <section class="">
+		<div>Hi, Benjamin! I'm a missionary to the UK!</div>
+		<button>About Me</button>
+		<button>Contact Me</button>
+	</section> #}
+    <section class="post-list">
+        {% for post in posts %}
+			{{ card(post) }}
+        {% endfor %}
+    </section>
+
+    {% include "partials/pagination.njk" %}
+{% endblock%}
