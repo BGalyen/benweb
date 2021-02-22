@@ -9,3 +9,5 @@ layout: layouts/page.njk
 ---
 
 Hi! My name is Benjamin Galyen!
+
+My new site is coming soon!
