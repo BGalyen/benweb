@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: ""
 feature_image: 
 description: ""
 date: 2021-02-21

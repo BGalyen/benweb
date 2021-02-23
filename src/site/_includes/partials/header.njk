@@ -1,17 +1,15 @@
 {% from "partials/icon.njk" import icon %}
 
 <header class="px-6 py-2 bg-white flex flex-wrap items-center lg:px-16">
+  <div class="flex flex-1 items-start">
+    <a class="" {% if page.url == "/" %} aria-current="page" {% endif %} href="{{ site.url }}">
+      <img class="object-left object-scale-down h-10 lg:h-12 mr-2" src="{{ site.logo }}" alt="{{ site.title }}">
+    </a>
+  </div>
+  {% include "partials/navigation.njk" %}
   {% if page.url == "/" %}
-    {% include "partials/navigation.njk" %}
     <div class="pb-4 w-full">
       <img class="w-full" src="{{ site.cover_image }}">
     </div>
-  {% else %}
-    <div class="flex flex-1 items-start">
-      <a class="" {% if page.url == "/" %} aria-current="page" {% endif %} href="{{ site.url }}">
-        <img class="object-left object-scale-down h-10 lg:h-12 mr-2" src="{{ site.logo }}" alt="{{ site.title }}">
-      </a>
-    </div>
-    {% include "partials/navigation.njk" %}
   {% endif %}
 </header>
