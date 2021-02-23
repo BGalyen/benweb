@@ -22,4 +22,5 @@ You can help to ensure that Benjamin Galyen continues to pursue the mission for 
 <p><a target="_blank" href="https://www.myclickandgive.com/login.php?id=26">Donate</a></p>
 
 ## What is a clearinghouse?
+
 I use Central Missionary Clearinghouse out of Houston, TX.  I am sent out of the local church, Buffalo Ridge Baptist Church.  CMC is an independent fundamental Baptist ministry and they simply help with finances.
