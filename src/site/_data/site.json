@@ -29,6 +29,10 @@
 			"url": "/"
 		},
 		{
+			"label": "Ministry in UK",
+			"url": "/ministry-in-uk/"
+		},
+		{
 			"label": "About",
 			"url": "/about/"
 		},
@@ -37,13 +41,14 @@
 			"url": "/newsletters/"
 		},
 		{
-			"label": "Contact Me",
-			"url": "/contact/"
-		},
-		{
 			"label": "Invest in Eternity",
 			"url": "/invest-in-eternity/"
+		},
+		{
+			"label": "Contact Me",
+			"url": "/contact/"
 		}
+		
 	],
 	"secondary_navigation": [],
 	"meta_title": null,

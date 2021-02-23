@@ -30,7 +30,7 @@ www.buffaloridgebaptist.org
 
 Central Missionary Clearinghouse  
 P.O. Box 219228  
-Houston, TX 77218 
+Houston, TX 77218  
 
 <p>Mail in or click <a target="_blank" href="https://cmcmissions.org/donate">here</a> to donate online</p>
 
