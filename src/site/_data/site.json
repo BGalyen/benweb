@@ -1,9 +1,9 @@
 {
-	"title": "Ben To The UK",
+	"title": "Ben in the UK",
 	"url": "https://bentotheuk.com",
-	"description": "Ben to the UK",
+	"description": "Ben in the UK",
 	"feed": {
-		"subtitle": "Ben to the UK",
+		"subtitle": "Ben in the UK",
 		"filename": "feed.xml",
 		"path": "/feed.xml",
 		"id": "https://bentotheuk.com"
