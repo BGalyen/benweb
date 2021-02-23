@@ -37,8 +37,12 @@
 			"url": "/newsletters/"
 		},
 		{
-			"label": "Donate",
-			"url": "https://cmcmissions.org/donate"
+			"label": "Contact Me",
+			"url": "/contact/"
+		},
+		{
+			"label": "Invest in Eternity",
+			"url": "/invest-in-eternity/"
 		}
 	],
 	"secondary_navigation": [],
