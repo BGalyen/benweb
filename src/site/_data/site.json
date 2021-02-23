@@ -1,20 +1,20 @@
 {
 	"title": "Ben in the UK",
-	"url": "https://bentotheuk.com",
+	"url": "https://benintheuk.com",
 	"description": "Ben in the UK",
 	"feed": {
 		"subtitle": "Ben in the UK",
 		"filename": "feed.xml",
 		"path": "/feed.xml",
-		"id": "https://bentotheuk.com"
+		"id": "https://benintheuk.com"
 	},
 	"author": {
 		"name": "Benjamin Galyen",
 		"email": "ben.galyen@cchtrust.org.uk",
-		"url": "https://bentotheuk.com/about/"
+		"url": "https://benintheuk.com/about/"
 	},
 	"logo": "/images/logo.jpg",
-	"icon": "https://bentotheuk.com/favicon.ico",
+	"icon": "https://benintheuk.com/favicon.ico",
 	"brand": null,
 	"cover_image": "/images/banner.jpg",
 	"facebook": null,
