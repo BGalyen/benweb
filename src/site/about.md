@@ -7,9 +7,10 @@ tags: page
 slug: about-me
 layout: layouts/page.njk
 ---
-- Table of Contents (Quick links)
-  - [Testimony](#Testimony-of-Benjamin-Galyen)
-  - [Statement Of Faith](#Statement-Of-Faith-(What-I-Believe))
+#### Table of Contents (Quick links)
+
+- [Testimony](#testimony)
+- [Statement Of Faith](#statement)
 
 <center>
 <br>_______________________________________________________________________________________________
@@ -17,7 +18,7 @@ layout: layouts/page.njk
 
 <center>
 
-## ***Testimony of Benjamin Galyen***
+## Testimony of Benjamin Galyen
 
 ### *Salvation*
 
