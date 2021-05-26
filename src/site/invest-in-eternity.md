@@ -30,8 +30,5 @@ I use Central Missionary Clearinghouse out of Houston, TX.  I am sent out of the
 #### Mail Cash or Check
 
 * Print correct form
-  * <a target="_blank" href="https://drive.google.com/file/d/1MKahcTNaD09MLrohco59h-3y10X8Hh3S/view?usp=sharing">Individual Donor Form
-
-[test](/pdfs/testpdf1.pdf)
-
-
+  * <a target="_blank" href="https://drive.google.com/file/d/1eLAd08HiEbYQft0Z4dsDwc4aCnXBWJ01/view?usp=sharing">Church Donor Form</a>
+  * <a target="_blank" href="https://drive.google.com/file/d/1MKahcTNaD09MLrohco59h-3y10X8Hh3S/view?usp=sharing">Individual Donor Form</a>
