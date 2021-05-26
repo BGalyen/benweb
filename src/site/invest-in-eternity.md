@@ -30,4 +30,6 @@ I use Central Missionary Clearinghouse out of Houston, TX.  I am sent out of the
 #### Mail Cash or Check
 
 * Print correct form
-    
+  * <a href= "/PDF/ChurchDonorForm.pdf" download>Church Donor Form</a>
+
+[test](/PDF/testpdf1.pdf)

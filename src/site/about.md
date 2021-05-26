@@ -7,13 +7,12 @@ tags: page
 slug: about-me
 layout: layouts/page.njk
 ---
-#### Table of Contents (Quick links)
-- [Testimony](#testimony)
-- [Statement Of Faith](#statement-of-faith)
 
-<center>
-<br>_______________________________________________________________________________________________
-</center>
+- Table of Contents (Quick links)  
+  - [Testimony](#testimony)
+  - [Statement Of Faith](#statement-of-faith)
+
+<center><br>_______________________________________________________________________________________________</center>
 
 <center>
 
