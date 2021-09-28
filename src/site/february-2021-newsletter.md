@@ -25,7 +25,7 @@ viewer?embedded=true&url=https://documentcloud.adobe.com/link/track?uri=urn:aaid
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "f2e06f572321445290ef34e13e213bc6", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{location: {url: "/pdf/summaryof20182020.pdf"}},
+			content:{location: {url: /projects/benweb/src/site/pdfs/summaryof20182020.pdf"}},
 			metaData:{fileName: "summaryof20182020.pdf"}
 		}, {embedMode: "IN_LINE"});
 	});
