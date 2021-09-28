@@ -14,29 +14,19 @@ This is stuff you should know about me in February 2021.
 <embed src="https://drive.google.com/viewerng/
 viewer?embedded=true&url=https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:ca6b89be-9aa7-4459-af41-6462c0e304d7" width="500" height="375">
 
-<embed src="https://drive.google.com/file/d/1hlT8HE7KbGxE7ynjG4l0jz4GjqzMRmck/view?usp=sharing" width="500" height="375" 
+<embed src="https://drive.google.com/file/d/1hlT8HE7KbGxE7ynjG4l0jz4GjqzMRmck/view?usp=sharing" width="500" height="375"
  type="application/pdf">
 
 
-<html>
-<head>
-  <title>Your title</title>
-  <meta charset="utf-8"/>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
-  <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
-</head>
-<body>
-  <div id="adobe-dc-view"></div>
-  <script type="text/javascript">
-   document.addEventListener("adobe_dc_view_sdk.ready", function()
-   {
-      var adobeDCView = new AdobeDC.View({clientId: "f2e06f572321445290ef34e13e213bc6", divId: "adobe-dc-view"});
-      adobeDCView.previewFile(
-     {
-         content:  {location: {url: "https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:deb6db6c-2cee-4185-93d1-94c843178523"}},
-         metaData: {fileName: "summaryof2018-2020.pdf"}
-     });
-   });
-  </script>
-</body>
-</html>
+
+<div id="adobe-dc-view" style="width: 800px;"></div>
+<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script type="text/javascript">
+	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+		var adobeDCView = new AdobeDC.View({clientId: "8bede721d09644adb2cbee648cf343df", divId: "adobe-dc-view"});
+		adobeDCView.previewFile({
+			content:{location: {url: "/pdf/summaryof20182020.pdf"}},
+			metaData:{fileName: "summaryof20182020.pdf"}
+		}, {embedMode: "IN_LINE"});
+	});
+</script>
