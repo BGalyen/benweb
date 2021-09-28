@@ -28,6 +28,7 @@ You can help to ensure that Benjamin Galyen continues to pursue the mission for 
 I use <a target="_blank" href="https://www.cmcmissions.org">Central Missionary Clearinghouse</a> out of Houston, TX.  I am sent out of a local church, Buffalo Ridge Baptist Church.  CMC is an independent fundamental baptist ministry and they simply help with finances.
 
 #### Mail Cash or Check
+
 * Print correct form
   * <a target="_blank" href="https://drive.google.com/file/d/1eLAd08HiEbYQft0Z4dsDwc4aCnXBWJ01/view?usp=sharing">Church Donor Form</a>
   * <a target="_blank" href="https://drive.google.com/file/d/1MKahcTNaD09MLrohco59h-3y10X8Hh3S/view?usp=sharing">Individual Donor Form</a>
