@@ -23,7 +23,7 @@ viewer?embedded=true&url=https://documentcloud.adobe.com/link/track?uri=urn:aaid
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "f2e06f572321445290ef34e13e213bc6", divId: "adobe-dc-view"});
+		var adobeDCView = new AdobeDC.View({clientId: "751257c936eb4c73a704d0364b34ed65", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
 			content:{location: {url: "/projects/benweb/src/site/pdfs/summaryof20182020.pdf"}},
 			metaData:{fileName: "summaryof20182020.pdf"}
