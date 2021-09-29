@@ -20,6 +20,7 @@ module.exports = function( config ) {
 	config.addWatchTarget( "./src/assets/" );
 	config.addPassthroughCopy( "./src/site/images/**" );
 	config.addPassthroughCopy( "./src/site/favicon.ico" );
+	config.addPassthroughCopy( "./src/site/pdfs/**" );
 
 	// Minify HTML
 	if ( process.env.ELEVENTY_ENV === "production" ) {
